@@ -43,7 +43,7 @@ Parte 2: Aggiungere un File e Fare un Commit √
             Aggiungi un messaggio di commit, ad esempio: "Aggiunto il file README.md".
             Premi Commit per salvare le modifiche nel repository.
 
-Parte 3: Modificare un File e Fare un Nuovo Commit √
+Parte 3: Modificare un File e Fare un Nuovo Commit
 
     Modifica il file README.md:
         Aggiungi un'altra riga, ad esempio:
@@ -59,7 +59,7 @@ Parte 3: Modificare un File e Fare un Nuovo Commit √
         Aggiungi un nuovo messaggio di commit, ad esempio: "Aggiornato il file README.md".
         Premi Commit.
 
-Parte 4: Visualizzare la Cronologia √
+Parte 4: Visualizzare la Cronologia
 
     Vedere lo storico dei commit:
         Vai su VCS > Git > Log.
