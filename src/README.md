@@ -1,5 +1,6 @@
 
 # Questo è il mio primo progetto con Git in IntelliJ!
+# test per rollback
 
 Esercizio: Gestire un Progetto con Git in IntelliJ IDEA
 Obiettivo
