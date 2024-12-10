@@ -1,3 +1,6 @@
+
+# Questo è il mio primo progetto con Git in IntelliJ!
+
 Esercizio: Gestire un Progetto con Git in IntelliJ IDEA
 Obiettivo
 
